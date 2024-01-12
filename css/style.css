@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.content.login{ 
+    width: 50%;
+    margin: auto;
+    border: 1px solid #3468C0;
+    margin-top: 13%;
+    border-radius: 4px;
+}
+.input{
+    width: 100%;
+    height: 20px;
+    border: 1px solid #EEF5FF;
+    border-bottom: 1px solid #3468C0;
+    margin-top: 16px;
+}
+.text-area{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #EEF5FF;
+    border-bottom: 1px solid #3468C0;
+    margin-top: 16px;
+}
+.right{
+    float: right;
+}
+.submit{
+    padding: 12px 14px;
+    background: #fff;
+    color: #3468C0;
+    border-radius: 2px;
+    border: 1px solid #3468C0;
+    margin-top: 16px;
+    transition: 0.3s;
+}
+.submit:hover{
+    background: #3468C0;
+    color: #fff;
+}
+.kanan{
+    float: right;
+}
+.container{
+    width: auto;
+    height: 760px;
+}
+.kiri{
+    float: left;
+    background: #3468C0;
+    width: 240px;
+    height: 768px;
+}
+.kiri u1{
+    margin-top: 64px;
+}
+.kiri u1 li{
+    display: block;
+    padding: 12px;
+    text-align: center;
+    color: #fff;
+    transition: 0.3s;
+}
+.kiri u1 {
+    text-decoration: none;
+}
+.kiri u1 li:hover{
+    background: #fff;
+    color: #3468C0;
+}
+.kanan{
+    float: right;
+    width: 70%;
+    border: 1px solid #f1f1f1;
+    height: 760px;
+    margin-right: 150px;
+}
+#table th{
+    padding: 8px;
+    background: #3468C0;
+    color: #fff;
+}
+#table td{
+    padding: 4px;
+    
+}
